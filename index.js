@@ -20,6 +20,6 @@ function sayHiToGrandma(string) {
   } else if(shout(string) === string) {
     return "YES INDEED!"
   } else if ("I love you, Grandma." === string) {
-    return "I"
+    return "I love you, too."
   }
 }
